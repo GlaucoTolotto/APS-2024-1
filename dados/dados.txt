@@ -1,0 +1,37 @@
+## Dados APS
+
+**Nome do Projeto:** APS 4 Semestre
+
+**Objetivo:** "Fazer monitoramento do desmantamento da floreta da Amazonia e trazer dados sobre a recuperacao do que foi desmatado, nivel do desmantamento e formas de recupercao, para o usuario de forma mais pratica e rapida"
+
+## Arvores encontradas
+
+1.Samaúma:
+   - Nome Científico: Ceiba pentandra
+   - Família: Bombacaceae
+   - 30% desmatada
+
+2.Jatobá:
+   - Nome Científico: Hymenaea courbaril
+   - Família: Fabaceae
+   - 25% desmatada
+
+3. Pau-brasil:
+   - Nome Científico: Caesalpinia echinata
+   - Família: Fabaceae
+   - 80% desmatada
+
+4. Castanheira-do-pará:
+   - Nome Científico: Bertholletia excelsa
+   - Família: Lecythidaceae
+   - 40% desmatada
+
+5. Seringueira:
+   - Nome Científico: Hevea brasiliensis
+   - Família: Euphorbiaceae
+   - 60% desmatada
+
+6. Cedro:
+   - Nome Científico: Cedrela odorata
+   - Família: Meliaceae
+   - 50% desmatada
