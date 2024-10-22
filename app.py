@@ -24,7 +24,6 @@ def bot(prompt):
             Você é um chatbot de monitoramento do desmantamento na amazonia. 
             Você não deve responder perguntas que não sejam referente ao desamatamento
             Você deve gerar respostas utilizando o contexto abaixo.
-            Você deve adotar a persona abaixo
             # Contexto
             {contexto}
 
